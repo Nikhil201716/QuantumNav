@@ -1,0 +1,599 @@
+ 
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+pip-wheel-metadata/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# PyInstaller
+#  Usually these files are written by a python script from a template
+#  before PyInstaller builds the executable, this should prevent Git from tracking them
+*.hook-spec.py
+*.hook-sig.py
+*.pyz
+# end of PyInstaller section
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Unit test / coverage reports
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+
+# Translations
+*.mo
+*.pot
+
+# Django stuff:
+*.log
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+
+# Flask stuff:
+instance/
+.webassets-cache
+
+# Scrapy stuff:
+.scrapy
+
+# Sphinx documentation
+docs/_build/
+doc/_build/
+
+# PyBuilder
+target/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IPython
+profile_default/
+ipython_config.py
+
+# pyenv
+.python-version
+
+# pipenv
+#   According to pypa/pipenv#598, it is recommended to include Pipfile.lock in version control.
+#   However, in case of collaboration, if having platform-specific dependencies or dependencies
+#   having no cross-platform support, pipenv may install dependencies that don't work, or not
+#   install all needed dependencies.
+#Pipfile.lock
+
+# celery beat schedule file
+celerybeat-schedule
+
+# SageMath parsed files
+*.sage.py
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Spyder project settings
+.spyderproject
+.spyproject
+
+# Rope project settings
+.ropeproject
+
+# mkdocs documentation
+/site
+
+# mypy
+.mypy_cache/
+.dmypy.json
+dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pytype static type checker
+.pytype/
+
+# Cython debug symbols
+cython_debug/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# Logs
+*.log
+
+# Cache
+cache/
+*.cache
+
+# Session Data
+session_data/
+
+# User Data
+user_data/
+
+# Temp Files
+*.tmp
+*.temp
+
+# Backup Files
+*.bak
+*.backup
+
+# Compiled HTML files
+*.html
+
+# Compiled CSS files
+*.css
+
+# Compiled JavaScript files
+*.js
+
+# Compiled JSON files
+*.json
+
+# Compiled XML files
+*.xml
+
+# Compiled YAML files
+*.yaml
+*.yml
+
+# Compiled Markdown files
+*.md
+
+# Compiled CSV files
+*.csv
+
+# Compiled TSV files
+*.tsv
+
+# Compiled XLSX files
+*.xlsx
+
+# Compiled XLS files
+*.xls
+
+# Compiled PDF files
+*.pdf
+
+# Compiled DOCX files
+*.docx
+
+# Compiled DOC files
+*.doc
+
+# Compiled PPTX files
+*.pptx
+
+# Compiled PPT files
+*.ppt
+
+# Compiled PNG files
+*.png
+
+# Compiled JPG files
+*.jpg
+*.jpeg
+
+# Compiled GIF files
+*.gif
+
+# Compiled BMP files
+*.bmp
+
+# Compiled ICO files
+*.ico
+
+# Compiled SVG files
+*.svg
+
+# Compiled WEBP files
+*.webp
+
+# Compiled AVI files
+*.avi
+
+# Compiled MP4 files
+*.mp4
+
+# Compiled MOV files
+*.mov
+
+# Compiled WMV files
+*.wmv
+
+# Compiled MKV files
+*.mkv
+
+# Compiled FLV files
+*.flv
+
+# Compiled SWF files
+*.swf
+
+# Compiled MP3 files
+*.mp3
+
+# Compiled WAV files
+*.wav
+
+# Compiled OGG files
+*.ogg
+
+# Compiled FLAC files
+*.flac
+
+# Compiled AAC files
+*.aac
+
+# Compiled M4A files
+*.m4a
+
+# Compiled WMA files
+*.wma
+
+# Compiled MIDI files
+*.midi
+*.mid
+
+# Compiled AI files
+*.ai
+
+# Compiled PSD files
+*.psd
+
+# Compiled INDD files
+*.indd
+
+# Compiled EPS files
+*.eps
+
+# Compiled SVGZ files
+*.svgz
+
+# Compiled XCF files
+*.xcf
+
+# Compiled ORA files
+*.ora
+
+# Compiled KRA files
+*.kra
+
+# Compiled FLA files
+*.fla
+
+# Compiled SWC files
+*.swc
+
+# Compiled ANI files
+*.ani
+
+# Compiled CUR files
+*.cur
+
+# Compiled ICO files
+*.ico
+
+# Compiled OTF files
+*.otf
+
+# Compiled TTF files
+*.ttf
+
+# Compiled FON files
+*.fon
+
+# Compiled PFB files
+*.pfb
+
+# Compiled PFM files
+*.pfm
+
+# Compiled AFM files
+*.afm
+
+# Compiled TTC files
+*.ttc
+
+# Compiled DFONT files
+*.dfont
+
+# Compiled BDF files
+*.bdf
+
+# Compiled PCF files
+*.pcf
+
+# Compiled T42 files
+*.t42
+
+# Compiled PFA files
+*.pfa
+
+# Compiled SFD files
+*.sfd
+
+# Compiled UFO files
+*.ufo
+
+# Compiled FPR files
+*.fpr
+
+# Compiled FPK files
+*.fpk
+
+# Compiled FPF files
+*.fpf
+
+# Compiled FPL files
+*.fpl
+
+# Compiled FPC files
+*.fpc
+
+# Compiled FPD files
+*.fpd
+
+# Compiled FPI files
+*.fpi
+
+# Compiled FPO files
+*.fpo
+
+# Compiled FPT files
+*.fpt
+
+# Compiled FPU files
+*.fpu
+
+# Compiled FPV files
+*.fpv
+
+# Compiled FPW files
+*.fpw
+
+# Compiled FPP files
+*.fpp
+
+# Compiled FPN files
+*.fpn
+
+# Compiled FPM files
+*.fpm
+
+# Compiled FPL files
+*.fpl
+
+# Compiled FPC files
+*.fpc
+
+# Compiled FPD files
+*.fpd
+
+# Compiled FPI files
+*.fpi
+
+# Compiled FPO files
+*.fpo
+
+# Compiled FPT files
+*.fpt
+
+# Compiled FPU files
+*.fpu
+
+# Compiled FPV files
+*.fpv
+
+# Compiled FPW files
+*.fpw
+
+# Compiled FPP files
+*.fpp
+
+# Compiled FPN files
+*.fpn
+
+# Compiled FPM files
+*.fpm
+
+# Compiled FPL files
+*.fpl
+
+# Compiled FPC files
+*.fpc
+
+# Compiled FPD files
+*.fpd
+
+# Compiled FPI files
+*.fpi
+
+# Compiled FPO files
+*.fpo
+
+# Compiled FPT files
+*.fpt
+
+# Compiled FPU files
+*.fpu
+
+# Compiled FPV files
+*.fpv
+
+# Compiled FPW files
+*.fpw
+
+# Compiled FPP files
+*.fpp
+
+# Compiled FPN files
+*.fpn
+
+# Compiled FPM files
+*.fpm
+
+# Compiled FPL files
+*.fpl
+
+# Compiled FPC files
+*.fpc
+
+# Compiled FPD files
+*.fpd
+
+# Compiled FPI files
+*.fpi
+
+# Compiled FPO files
+*.fpo
+
+# Compiled FPT files
+*.fpt
+
+# Compiled FPU files
+*.fpu
+
+# Compiled FPV files
+*.fpv
+
+# Compiled FPW files
+*.fpw
+
+# Compiled FPP files
+*.fpp
+
+# Compiled FPN files
+*.fpn
+
+# Compiled FPM files
+*.fpm
+
+# Compiled FPL files
+*.fpl
+
+# Compiled FPC files
+*.fpc
+
+# Compiled FPD files
+*.fpd
+
+# Compiled FPI files
+*.fpi
+
+# Compiled FPO files
+*.fpo
+
+# Compiled FPT files
+*.fpt
+
+# Compiled FPU files
+*.fpu
+
+# Compiled FPV files
+*.fpv
+
+# Compiled FPW files
+*.fpw
+
+# Compiled FPP files
+*.fpp
+
+# Compiled FPN files
+*.fpn
+
+# Compiled FPM files
+*.fpm
+
+# Compiled FPL files
+*.fpl
+
+# Compiled FPC files
+*.fpc
+
+# Compiled FPD files
+*.fpd
+
+# Compiled FPI files
+*.fpi
+
+# Compiled FPO files
+*.fpo
+
+# Compiled FPT files
+*.fpt
+
+# Compiled FPU files
+*.fpu
+
+# Compiled FPV files
+*.fpv
+
+# Compiled FPW files
+*.fpw
+
+# Compiled FPP files
+*.fpp
+
+# Compiled FPN files
+*.fpn
+
+# Compiled FPM files
+*.fpm
+
+# Compiled FPL files
+*.fpl
+
+# Compiled FPC files
+*.fpc
+
+# Compiled FPD files
+*.fpd
+
+# Compiled FPI files
+*.fpi
+
+# Compiled FPO files
+*.fpo
+
+# Compiled FPT files
+*.fpt
+
+# Compiled FPU files
